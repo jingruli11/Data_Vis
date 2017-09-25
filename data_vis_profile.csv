@@ -1,0 +1,24 @@
+FirstName,LastName,Program,College,MajorRaw,WorkExperience,Timestamp,InternshipExperience,VisualTools,CollegeLocation,Major
+Akashna,Anand,AA,India,Engineering,Tata Motors,9/7/17,3,2,0,Engineering
+Ya-Hsuan,Chuo,AA,National Chengchi University,"Management Information System, Econ",,9/10/17,1,2,0,"Information System, Econ & Finance"
+Sifan,Du,AA,University of Florida,Information System,,9/7/17,3,0,1,Information System
+Emma,Du,AA,College of William and Mary,Econ,"risk, marketing, compliance",9/8/17,0,1,1,Econ & Finance
+Xu,Du,AA,Penn State,Finance,,9/11/17,3,2,1,Econ & Finance
+Pavlos,Giannakis,AA,,,"Finance, risk management, financial data analytics",9/6/17,3,0,0,Econ & Finance
+Alessandro,Langer,AA,Bocconi University,Econ,,9/11/17,2,0,0,Econ & Finance
+Michael,Li,AA,City University of Hong Kong,"Quantitative Finance, risk management",,9/5/17,1,6,0,Econ & Finance
+Yifan,Ni,AA,UC San Diego,Management Science,,9/8/17,3,1,1,Management Science
+Danlu,Pan,AA,Hangzhou,Math,,9/5/17,1,2,0,Math
+Lu,Qiao,AA,Wuhan University,Financial Engineering,,9/7/17,2,1,0,Econ & Finance
+Ruishi,Qin,AA,USC,Finance,Investment Banking,9/10/17,3,1,1,Econ & Finance
+Ainul,Rosli,AA,University of Sydney,Econ,Central Bank of Malaysia,9/5/17,1,2,0,Econ & Finance
+Leo,Shelley,CS,,MD,"Medical & pharmaceutical, academic",9/5/17,0,0,0,MD
+Sui Ping,Suen,AA,Rensselaer Polytechnic Institute,Business Mathematics,,9/9/17,2,3,1,Math
+Jiaqi,Wang,AA,Penn State,HR,,9/4/17,3,1,1,Management Science
+Zhou,Wang,AA,UC San Diego,Management Science,,9/7/17,3,1,1,Management Science
+Yuhan,Wang,AA,University of Delaware,"Math, Econ",BT Group,9/11/17,0,0,1,"Econ & Finance, Math"
+Jingyun,Xu,AA,University of Miami,Finance Math,,9/5/17,1,2,1,"Math, Econ & Finance"
+Yun han,Yang,AA,Hubei University of Economics,Finance,,9/11/17,2,4,0,Econ & Finance
+Justin,Yoon,AA,University of Washington,Econ,,9/5/17,1,1,1,Econ & Finance
+Yajie,Yu,AA,University of Oregon,Business administration,,9/7/17,1,1,1,Econ & Finance
+Weitao,Zhou,AA,Shanghai Jiao Tong University,Finance,Sound artist,9/7/17,2,2,0,Econ & Finance
